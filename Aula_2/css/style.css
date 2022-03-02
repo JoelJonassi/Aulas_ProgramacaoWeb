@@ -1,0 +1,18 @@
+/*A cada regra está associado um seletor/ ao conjunto de declarações
+chama-se declaration block*/
+
+h3{
+	color: #1098ab;
+	font-size: 26px;
+	font-family: sans-serif; /*Garantir que a fonte a ser usada encotra-se em todos os sistemas, se não tem de se colocar no servidor a fonte de letras
+	*/
+	text-transform: uppercase;
+	font-style: italic;
+}
+
+
+h2{
+	font-size: 40px;
+	font-family: sans-serif;
+	line-height: 1.5;
+}
