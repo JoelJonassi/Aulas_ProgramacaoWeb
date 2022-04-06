@@ -1,0 +1,84 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+    border: 3px solid black;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.TitleCard {
+    font-family: sans-serif;
+    font-size: 18px;
+    background-color: rgb(241, 238, 238);
+    padding: 10px 20px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+article {
+   margin: 0 auto;
+}
+
+.price {
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: sans-serif;
+}
+
+.shipping {
+    color: gray;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 10px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    }
+
+button {
+    border:black;
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-size: 10px;
+    background-color: black;
+    width: 500px;
+    height: 30px;
+}
+
+h1 {
+    margin: 70px 10px 0px 20px;
+}
+
+.readySeason {  
+    margin: 0px 20px 20px 20px;
+    line-height: 1.5;
+}
+
+h3 {
+    text-transform: uppercase;
+    margin: 20px 5px 5px 0;
+   
+}
+
+ul, ol{
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+li {
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+
+p {
+    font-size: 12px;
+	margin-left: 2px;
+    margin-bottom: 5px;
+}
+
+a {
+    color: black;
+}
